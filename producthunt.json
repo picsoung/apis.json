@@ -1,0 +1,50 @@
+{
+  "name": "Producthunt",
+  "description": "Hacker news for startups.",
+  "image": "https://d1qb2nb5cznatu.cloudfront.net/startups/i/303943-1d6fe280010ae474ddd9f37792a6b604-medium_jpg.jpg?buster=1386178935",
+  "tags": [
+    "discovery",
+    "curation",
+    "startups"
+  ],
+  "created": "2014-08-20",
+  "modified": "2014-08-20",
+  "url": "http://apis.io/apis.json",
+  "specificationVersion": "0.14",
+  "apis": [
+    {
+      "name": "Producthunt",
+      "description": "Access posts, comments and user data of Producthunt. Hacker news for products.",
+      "image": "https://d1qb2nb5cznatu.cloudfront.net/startups/i/303943-1d6fe280010ae474ddd9f37792a6b604-medium_jpg.jpg?buster=1386178935",
+      "humanURL": "http://www.producthunt.com/v1/docs",
+      "baseURL": "http://www.producthunt.com/v1/",
+      "tags": [
+        "discovery",
+        "curation",
+        "startups"
+      ],
+      "properties": [
+        {
+          "type": "X-documentation",
+          "url": "http://www.producthunt.com/v1/docs"
+        }
+      ],
+      "contact": [
+        {
+          "FN": "Producthunt",
+          "email": "hello@producthunt.com",
+          "X-twitter": "producthunt"
+        }
+      ]
+    }
+  ],
+  "include": [],
+  "maintainers": [
+    {
+      "FN": "Nicolas Grenié",
+      "X-twitter": "picsoung",
+      "email": "nicolas@3scale.net",
+      "X-github":"picsoung"
+    }
+  ]
+}
