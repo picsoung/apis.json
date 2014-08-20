@@ -1,0 +1,43 @@
+{
+  "name": "Emma",
+  "description": "Emma's a web-based service that lets you create, send and track stylish email campaigns and surveys.",
+  "image": "http://myemma.com/assets/files/logos/png/Emma_Logo_Vertical.png",
+  "tags": [
+    "email",
+    "survey"
+  ],
+  "created": "2014-08-20",
+  "modified": "2014-08-20",
+  "url": "https://raw.githubusercontent.com/picsoung/apis.json/master/emma.json",
+  "specificationVersion": "0.14",
+  "apis": [
+    {
+      "name": "Emma API",
+      "description": "Emma's a web-based service that lets you create, send and track stylish email campaigns and surveys.",
+      "image": "http://myemma.com/assets/files/logos/png/Emma_Logo_Vertical.png",
+      "humanURL": "http://api.myemma.com/index.html",
+      "baseURL": "https://api.e2ma.net",
+      "tags": [
+        "email",
+        "survey"
+      ],
+      "properties": [],
+      "contact": [
+        {
+          "FN": "Emma",
+          "organizationName":"Emma",
+          "X-twitter": "emmaemail"
+        }
+      ]
+    }
+  ],
+  "include": [],
+  "maintainers": [
+    {
+      "FN": "Nicolas Grenié",
+      "X-twitter": "picsoung",
+      "email": "nicolas@3scale.net",
+      "X-github":"picsoung"
+    }
+  ]
+}

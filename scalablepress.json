@@ -1,0 +1,145 @@
+{
+  "name": "Scalablepress",
+  "description": "Custom merchandise is just an API call away.",
+  "image": "https://scalablepress.com/images/logo.png",
+  "tags": [
+    "fashion",
+    "custom",
+    "print"
+  ],
+  "created": "2014-08-20",
+  "modified": "2014-08-20",
+  "url": "https://raw.githubusercontent.com/picsoung/apis.json/master/scalablepress.json",
+  "specificationVersion": "0.14",
+  "apis": [
+    {
+      "name": "Scalablepress - Products API",
+      "description": "Custom merchandise is just an API call away. The Products API provides specifications, inventory data, and pictures of all products available for printing.",
+      "image": "https://scalablepress.com/images/logo.png",
+      "humanURL": "https://scalablepress.com/reference#product-api",
+      "baseURL": "https://api.scalablepress.com/v2/products/",
+      "tags": [
+        "fashion",
+        "custom",
+        "print"
+      ],
+      "properties": [
+        {
+          "type":"TermsOfService",
+          "url":"https://scalablepress.com/terms"
+        },
+        {
+          "type":"X-PrivacyPolicy",
+          "url":"https://scalablepress.com/privacy"
+        }
+      ],
+      "contact": [
+        {
+          "FN": "Scalablepress",
+          "organizationName":"Scalablepress",
+          "email": "support@ScalablePress.com",
+          "X-twitter": "scalablepress"
+        }
+      ]
+    },
+    {
+      "name": "Scalablepress - Quote API",
+      "description": "Custom merchandise is just an API call away. The Quote API lets you get an exact quote before placing an order.",
+      "image": "https://scalablepress.com/images/logo.png",
+      "humanURL": "https://scalablepress.com/reference#quote-api",
+      "baseURL": "https://api.scalablepress.com/v2/quote",
+      "tags": [
+        "fashion",
+        "custom",
+        "print"
+      ],
+      "properties": [
+        {
+          "type":"TermsOfService",
+          "url":"https://scalablepress.com/terms"
+        },
+        {
+          "type":"X-PrivacyPolicy",
+          "url":"https://scalablepress.com/privacy"
+        }
+      ],
+      "contact": [
+        {
+          "FN": "Scalablepress",
+          "organizationName":"Scalablepress",
+          "email": "support@ScalablePress.com",
+          "X-twitter": "scalablepress"
+        }
+      ]
+    },
+    {
+      "name": "Scalablepress - Order API",
+      "description": "Custom merchandise is just an API call away. The Order API lets you place an order and check the status of a previously placed order.",
+      "image": "https://scalablepress.com/images/logo.png",
+      "humanURL": "https://scalablepress.com/reference#order-api",
+      "baseURL": "https://api.scalablepress.com/v2/quote",
+      "tags": [
+        "fashion",
+        "custom",
+        "print"
+      ],
+      "properties": [
+        {
+          "type":"TermsOfService",
+          "url":"https://scalablepress.com/terms"
+        },
+        {
+          "type":"X-PrivacyPolicy",
+          "url":"https://scalablepress.com/privacy"
+        }
+      ],
+      "contact": [
+        {
+          "FN": "Scalablepress",
+          "organizationName":"Scalablepress",
+          "email": "support@ScalablePress.com",
+          "X-twitter": "scalablepress"
+        }
+      ]
+    },
+    {
+      "name": "Scalablepress - Design API",
+      "description": "Custom merchandise is just an API call away.The Design API takes in information about your print design (dimensions, files, placement, etc.) and provides you with a designId which can be used to place an order or retieve the design object later.",
+      "image": "https://scalablepress.com/images/logo.png",
+      "humanURL": "https://scalablepress.com/reference#design-api",
+      "baseURL": "https://api.scalablepress.com/v2/quote",
+      "tags": [
+        "fashion",
+        "custom",
+        "print"
+      ],
+      "properties": [
+        {
+          "type":"TermsOfService",
+          "url":"https://scalablepress.com/terms"
+        },
+        {
+          "type":"X-PrivacyPolicy",
+          "url":"https://scalablepress.com/privacy"
+        }
+      ],
+      "contact": [
+        {
+          "FN": "Scalablepress",
+          "organizationName":"Scalablepress",
+          "email": "support@ScalablePress.com",
+          "X-twitter": "scalablepress"
+        }
+      ]
+    }
+  ],
+  "include": [],
+  "maintainers": [
+    {
+      "FN": "Nicolas Grenié",
+      "X-twitter": "picsoung",
+      "email": "nicolas@3scale.net",
+      "X-github":"picsoung"
+    }
+  ]
+}

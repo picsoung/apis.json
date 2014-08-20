@@ -9,7 +9,7 @@
   ],
   "created": "2014-08-20",
   "modified": "2014-08-20",
-  "url": "http://apis.io/apis.json",
+  "url": "https://raw.githubusercontent.com/picsoung/apis.json/master/producthunt.json",
   "specificationVersion": "0.14",
   "apis": [
     {
@@ -33,7 +33,8 @@
         {
           "FN": "Producthunt",
           "email": "hello@producthunt.com",
-          "X-twitter": "producthunt"
+          "X-twitter": "producthunt",
+          "X-github": "producthunt"
         }
       ]
     }

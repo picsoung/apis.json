@@ -1,0 +1,55 @@
+{
+  "name": "Routific",
+  "description": "We provide a solution to automate and optimize your routing and scheduling operations. Whether you deliver groceries, distribute compost bins, or pick up laundry — any Vehicle Routing Problem for that matter — we got your back",
+  "image": "https://www.routific.com/images/logo.svg",
+  "tags": [
+    "routing",
+    "map",
+    "directions"
+  ],
+  "created": "2014-08-20",
+  "modified": "2014-08-20",
+  "url": "https://raw.githubusercontent.com/picsoung/apis.json/master/routific.json",
+  "specificationVersion": "0.14",
+  "apis": [
+    {
+      "name": "6px API",
+      "description": "We provide a solution to automate and optimize your routing and scheduling operations. Whether you deliver groceries, distribute compost bins, or pick up laundry — any Vehicle Routing Problem for that matter — we got your back",
+      "image": "https://www.routific.com/images/logo.svg",
+      "humanURL": "https://www.routific.com/",
+      "baseURL": "https://routific.com/api/vrp",
+      "tags": [
+        "routing",
+        "map",
+        "directions"
+      ],
+      "properties": [
+        {
+          "type": "X-APIReference",
+          "url": "https://www.routific.com/developers#/reference"
+        },
+        {
+          "type": "X-Quickstart",
+          "url": "https://www.routific.com/developers#/quickstart"
+        }
+      ],
+      "contact": [
+        {
+          "FN": "Routific",
+          "organizationName":"Routific",
+          "email": "info@routific.com",
+          "X-twitter": "Routific"
+        }
+      ]
+    }
+  ],
+  "include": [],
+  "maintainers": [
+    {
+      "FN": "Nicolas Grenié",
+      "X-twitter": "picsoung",
+      "email": "nicolas@3scale.net",
+      "X-github":"picsoung"
+    }
+  ]
+}

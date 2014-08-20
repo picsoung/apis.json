@@ -1,0 +1,53 @@
+{
+  "name": "Dailymotion",
+  "description": "Dailymotion is a French video-sharing website on which users can upload, share and view videos.",
+  "image": "http://press.dailymotion.com/wp-old/wp-content/uploads/logo-Dailymotion.png",
+  "tags": [
+    "video",
+    "streaming"
+  ],
+  "created": "2014-08-20",
+  "modified": "2014-08-20",
+  "url": "https://raw.githubusercontent.com/picsoung/apis.json/master/dailymotion.json",
+  "specificationVersion": "0.14",
+  "apis": [
+    {
+      "name": "Dailymotion - Data API",
+      "description": "Dailymotion is a French video-sharing website on which users can upload, share and view videos.",
+      "image": "http://press.dailymotion.com/wp-old/wp-content/uploads/logo-Dailymotion.png",
+      "humanURL": "http://www.dailymotion.com/developer",
+      "baseURL": "https://api.dailymotion.com/",
+      "tags": [
+        "video",
+        "streaming"
+      ],
+      "properties": [
+        {
+          "type": "X-Explorer",
+          "url": "http://www.dailymotion.com/doc/api/explorer"
+        },
+        {
+          "type": "X-SDKs",
+          "url": "http://www.dailymotion.com/doc/api/sdk.html"
+        }
+      ],
+      "contact": [
+        {
+          "FN": "Dailymotion",
+          "organizationName":"Dailymotion",
+          "X-twitter": "DailymotionUSA",
+          "X-github": "dailymotion"
+        }
+      ]
+    }
+  ],
+  "include": [],
+  "maintainers": [
+    {
+      "FN": "Nicolas Grenié",
+      "X-twitter": "picsoung",
+      "email": "nicolas@3scale.net",
+      "X-github":"picsoung"
+    }
+  ]
+}
