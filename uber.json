@@ -1,0 +1,57 @@
+{
+  "name": "Uber",
+  "description": "Request a car from any mobile phone via text message, iPhone and Android apps. Within minutes, a professional driver in a sleek black car will arrive curbside. Automatically charged to your credit card on file, tip included.",
+  "image": "https://d1a3f4spazzrp4.cloudfront.net/web-mobile-client/img/favicons/favicon-196.391b0f.png",
+  "tags": [
+    "car",
+    "transport"
+  ],
+  "created": "2014-08-21",
+  "modified": "2014-08-21",
+  "url": "https://raw.githubusercontent.com/picsoung/apis.json/master/uber.json",
+  "specificationVersion": "0.14",
+  "apis": [
+    {
+      "name": "Uber API",
+      "description": "Request a car from any mobile phone via text message, iPhone and Android apps. Within minutes, a professional driver in a sleek black car will arrive curbside. Automatically charged to your credit card on file, tip included.",
+      "image": "https://d1a3f4spazzrp4.cloudfront.net/web-mobile-client/img/favicons/favicon-196.391b0f.png",
+      "humanURL": "https://developer.uber.com/",
+      "baseURL": "https://api.uber.com/v1",
+      "tags": [
+        "car",
+        "transport"
+      ],
+      "properties": [
+        {
+          "type": "X-APIReference",
+          "url": "https://developer.uber.com/v1/api-reference/"
+        },
+        {
+          "type": "X-Tutorial",
+          "url": "https://developer.uber.com/v1/tutorials/"
+        },
+        {
+          "type": "TermsOfService",
+          "url": "https://developer.uber.com/v1/terms/"
+        }
+      ],
+      "contact": [
+        {
+          "FN": "Uber",
+          "organizationName":"Uber",
+          "X-twitter": "Uber_API",
+          "X-github": "uber"
+        }
+      ]
+    }
+  ],
+  "include": [],
+  "maintainers": [
+    {
+      "FN": "Nicolas Grenié",
+      "X-twitter": "picsoung",
+      "email": "nicolas@3scale.net",
+      "X-github":"picsoung"
+    }
+  ]
+}
