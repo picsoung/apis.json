@@ -1,0 +1,43 @@
+
+{
+  "name": "MusicGraph",
+  "description": "MusicGraph is the worldâ€™s first knowledge engine for music. It contains over a billion facts that have been organized into a rich music ontology, which includes acoustical and lyrical features, detailed artist, album and song information, as well hundreds of other data points related user preferences.",
+  "url": "https://raw.githubusercontent.com/picsoung/apis.json/master/musicgraph.json",
+  "image": "http://corp.senzari.com/wp-content/uploads/2013/10/amp3.png",
+  "specificationVersion": "0.14",
+  "apis": [
+    {
+      "name": "MusicGraph API",
+      "description": "MusicGraph is the world's first knowledge engine for music. It contains over a billion facts that have been organized into a rich music ontology, which includes acoustical and lyrical features, detailed artist, album and song information, as well hundreds of other data points related user preferences.",
+      "image": "http://corp.senzari.com/wp-content/uploads/2013/10/amp3.png",
+      "APIVersion": "2",
+      "humanURL": "https://developer.musicgraph.com/",
+      "baseURL": "http://api.musicgraph.com/api/v2/",
+      "tags": ["music","graph"],
+      "properties": [
+        {
+          "type": "X-demos",
+          "url": "http://demos.musicgraph.com/"
+        }
+      ],
+      "contact": [
+        {
+          "FN":"MusicGraph",
+          "organizationName":"MusicGraph",
+          "X-twitter": "themusicgraph"
+        }
+      ]
+    }
+  ],
+  "maintainers": [
+    {
+      "FN": "Nicolas Grenié",
+      "X-twitter": "picsoung",
+      "email": "nicolas@3scale.net",
+      "X-github":"picsoung"
+    }
+  ],
+  "tags": ["music","graph"],
+  "modified": "2014-10-13",
+  "created": "2014-10-13"
+}
