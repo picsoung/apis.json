@@ -1,0 +1,35 @@
+{
+  "name": "TimeKit",
+  "description": "Power up your apps with smart scheduling\nAdd an intelligent scheduling to your product, without building or maintaining any infrastructure.",
+  "url": "https://raw.githubusercontent.com/picsoung/apis.json/master/timekit/apis.json",
+  "image": "http://timekit.io/img/timekitlight.png",
+  "specificationVersion": "0.14",
+  "apis": [
+    {
+      "name": "TimeKit API",
+      "description": "Power up your apps with smart scheduling  Add an intelligent scheduling to your product, without building or maintaining any infrastructure.",
+      "image": "http://timekit.io/img/timekitlight.png",
+      "baseURL": "https://timebirdapp.com/v1/",
+      "humanURL": "http://timekit.io/",
+      "tags": [
+        "scheduling",
+        "calendar"
+      ],
+      "properties": [],
+      "contact": []
+    }
+  ],
+  "maintainers": [
+    {
+      "FN": "Nicolas Grenié",
+      "email": "nicolas@3scale.net",
+      "organizationName": "3scale",
+      "X-twitter": "picsoung",
+      "X-github": "picsoung"
+    }
+  ],
+  "tags": [],
+  "include": [],
+  "created": "2015-03-18",
+  "modified": "2015-03-18"
+}

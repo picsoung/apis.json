@@ -1,0 +1,46 @@
+{
+  "name": "Postmates",
+  "description": "Postmates is transforming the way local goods move around a city by enabling anyone to get any product delivered in under one hour. Postmates' revolutionary urban logistics & on-demand delivery platform connects customers with local couriers, who purchase and deliver goods from any restaurant or store in a city.",
+  "url": "https://raw.githubusercontent.com/picsoung/apis.json/master/postmates/apis.json",
+  "image": "https://postmates.com/static/img/future/icon-postmates@2x.d944530939e8.png",
+  "specificationVersion": "0.14",
+  "apis": [
+    {
+      "name": "Postmates API",
+      "description": "Using the Postmates Delivery API, developers can integrate our on-demand local delivery platform into their applications. The API is designed to allow application developers to check prices, schedules, book a delivery, then follow updates on that delivery till completion.",
+      "image": "https://postmates.com/static/img/future/icon-postmates@2x.d944530939e8.png",
+      "baseURL": "https://api.postmates.com",
+      "humanURL": "https://postmates.com/developer",
+      "tags": [
+        "delivery",
+        "on-demand"
+      ],
+      "properties": [
+        {
+          "type": "X-Documentation",
+          "url": "https://postmates.com/developer/docs"
+        },
+        {
+          "type": "X-Signup",
+          "url": "https://postmates.com/developer/register"
+        }
+      ],
+      "contact": []
+    }
+  ],
+  "maintainers": [
+    {
+      "FN": "Nicolas Grenié",
+      "email": "nicolas@3scale.net",
+      "organizationName": "3scale",
+      "X-twitter": "picsoung",
+      "X-github": "picsoung"
+    }
+  ],
+  "tags": [
+    "delivery"
+  ],
+  "include": [],
+  "created": "2015-03-18",
+  "modified": "2015-03-18"
+}

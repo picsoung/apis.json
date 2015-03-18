@@ -1,0 +1,43 @@
+{
+  "name": "URX",
+  "description": "URX's deep link search API captures contextual information to find the most relevant actions for your users.",
+  "url": "https://raw.githubusercontent.com/picsoung/apis.json/master/urx/apis.json",
+  "image": "http://urx.com/img/urx-logo.svg",
+  "specificationVersion": "0.14",
+  "apis": [
+    {
+      "name": "URX search API",
+      "description": "URX makes it easy to link into apps. Our API uses information such as keywords, location and time, and returns deep links into relevant apps.",
+      "image": "http://urx.com/img/urx-logo.svg",
+      "baseURL": "https://developers.urx.com/",
+      "humanURL": "https://developers.urx.com/",
+      "tags": [
+        "revenue share",
+        "mobile",
+        "SDK"
+      ],
+      "properties": [
+        {
+          "type": "X-Signup",
+          "url": "https://dashboard.urx.com/"
+        }
+      ],
+      "contact": []
+    }
+  ],
+  "maintainers": [
+    {
+      "FN": "Nicolas Grenié",
+      "email": "nicolas@3scale.net",
+      "organizationName": "3scale",
+      "X-twitter": "picsoung",
+      "X-github": "picsoung"
+    }
+  ],
+  "tags": [
+    "advertisement"
+  ],
+  "include": [],
+  "created": "2015-03-18",
+  "modified": "2015-03-18"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Blockstrap",
+  "description": "Bitcoin, Litecoin, and Dogecoin API & HTML5 framework for building blockchain applications.",
+  "url": "https://raw.githubusercontent.com/picsoung/apis.json/master/blockstrap/apis.json",
+  "image": "http://blockstrap.com/_libs/img/logo.png",
+  "specificationVersion": "0.14",
+  "apis": [
+    {
+      "name": "Blockstrap API",
+      "description": "Bitcoin, Litecoin, and Dogecoin API & HTML5 framework for building blockchain applications.",
+      "image": "http://blockstrap.com/_libs/img/logo.png",
+      "baseURL": "https://api.blockstrap.com",
+      "humanURL": "http://docs.blockstrap.com/en/api/",
+      "tags": [
+        "bitcoin",
+        "cryptocurrency"
+      ],
+      "properties": [
+        {
+          "type": "X-Signup",
+          "url": "http://blockstrap.com/en/pricing/"
+        }
+      ],
+      "contact": []
+    }
+  ],
+  "maintainers": [
+    {
+      "FN": "Nicolas Grenié",
+      "email": "nicolas@3scale.net",
+      "organizationName": "3scale",
+      "X-twitter": "picsoung",
+      "X-github": "picsoung"
+    }
+  ],
+  "tags": [
+    "bitcoin"
+  ],
+  "include": [],
+  "created": "2015-03-18",
+  "modified": "2015-03-18"
+}

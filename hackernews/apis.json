@@ -1,0 +1,43 @@
+{
+  "name": "Ycombinator",
+  "description": "Y Combinator is an American seed accelerator, started in March 2005. Initially, Y Combinator provided seed money, advice, and connections at two three-month programs per year.",
+  "url": "https://raw.githubusercontent.com/picsoung/apis.json/master/hackernews/apis.json",
+  "image": "http://www.ycombinator.com/images/ycombinator-logo-fb889e2e.png",
+  "specificationVersion": "0.14",
+  "apis": [
+    {
+      "name": "Hacker News API",
+      "description": "Hacker News is a social news website that caters to programmers and entrepreneurs, delivering content related to computer science and entrepreneurship. It is run by Paul Graham's investment fund and startup incubator, Y Combinator.",
+      "image": "http://www.ycombinator.com/images/ycombinator-logo-fb889e2e.png",
+      "baseURL": "https://hacker-news.firebaseio.com/v0/",
+      "humanURL": "https://github.com/HackerNews/API",
+      "tags": [
+        "developer",
+        "news"
+      ],
+      "properties": [
+        {
+          "type": "X-Documentation",
+          "url": "https://github.com/HackerNews/API"
+        }
+      ],
+      "contact": []
+    }
+  ],
+  "maintainers": [
+    {
+      "FN": "Nicolas Grenié",
+      "email": "nicolas@3scale.net",
+      "organizationName": "3scale",
+      "X-twitter": "picsoung",
+      "X-github": "picsoung"
+    }
+  ],
+  "tags": [
+    "accelerator",
+    ""
+  ],
+  "include": [],
+  "created": "2015-03-18",
+  "modified": "2015-03-18"
+}

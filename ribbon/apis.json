@@ -1,0 +1,42 @@
+{
+  "name": "Ribbon",
+  "description": "Ribbon is a modern way to send and receive money for free.",
+  "url": "https://raw.githubusercontent.com/picsoung/apis.json/master/ribbon/apis.json",
+  "image": "https://d1qb2nb5cznatu.cloudfront.net/startups/i/18618-6c333f59cf22e99faf7ccfabae68c7ff-medium_jpg.jpg?buster=1393477907",
+  "specificationVersion": "0.14",
+  "apis": [
+    {
+      "name": "Bins API",
+      "description": "BIN (bank identification number) is the first six numbers of a payment card. These standardized numbers provide useful information about the card that can help make your payments flow smarter.",
+      "image": "https://d1qb2nb5cznatu.cloudfront.net/startups/i/18618-6c333f59cf22e99faf7ccfabae68c7ff-medium_jpg.jpg?buster=1393477907",
+      "baseURL": "https://bins.ribbon.co/api/v1",
+      "humanURL": "https://bins.ribbon.co/",
+      "tags": [
+        "payment",
+        "credit card"
+      ],
+      "properties": [
+        {
+          "type": "X-Documentation",
+          "url": "https://bins.ribbon.co/"
+        }
+      ],
+      "contact": []
+    }
+  ],
+  "maintainers": [
+    {
+      "FN": "Nicolas Grenié",
+      "email": "nicolas@3scale.net",
+      "organizationName": "3scale",
+      "X-twitter": "picsoung",
+      "X-github": "picsoung"
+    }
+  ],
+  "tags": [
+    "payment"
+  ],
+  "include": [],
+  "created": "2015-03-18",
+  "modified": "2015-03-18"
+}
