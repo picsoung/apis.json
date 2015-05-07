@@ -1,0 +1,47 @@
+{
+  "name": "Pied Piper",
+  "description": "Pied Piper is a suite of compression services across diversified market segments. Pied Piper takes all your files and makes them smaller for when you need a “little help”!",
+  "url": "http://piedpiper.3scale.net",
+  "image": "http://static1.squarespace.com/static/551d64a8e4b0eeef9d4c5e6e/t/551d7c50e4b0b4693e0b11c0/1430244408443/?format=1500w",
+  "specificationVersion": "0.14",
+  "apis": [
+    {
+      "name": "Pied Piper API",
+      "description": "Pied Piper is a suite of compression services across diversified market segments. Pied Piper takes all your files and makes them smaller for when you need a “little help”!",
+      "image": "http://static1.squarespace.com/static/551d64a8e4b0eeef9d4c5e6e/t/551d7c50e4b0b4693e0b11c0/1430244408443/?format=1500w",
+      "baseURL": "https://api-2445581258829.staging.apicast.io/",
+      "humanURL": "https://piedpiper.3scale.net/",
+      "tags": [
+        "compression"
+      ],
+      "properties": [
+        {
+          "type": "X-documentation",
+          "url": "https://piedpiper.3scale.net/docs"
+        }
+      ],
+      "contact": [
+        {
+          "FN": "Nicolas Grenié",
+          "email": "nicolas@3scale.net",
+          "organizationName": "3scale",
+          "X-twitter": "http://twitter.com/picsoung",
+          "X-github": "http://github.com/picsoung"
+        }
+      ]
+    }
+  ],
+  "maintainers": [
+    {
+      "FN": "Nicolas Grenié",
+      "email": "nicolas@3scale.net",
+      "organizationName": "3scale"
+    }
+  ],
+  "tags": [
+    "compression"
+  ],
+  "include": [],
+  "created": "2015-05-07",
+  "modified": "2015-05-07"
+}
